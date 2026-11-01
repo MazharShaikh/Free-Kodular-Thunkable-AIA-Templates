@@ -20,6 +20,7 @@ The titles below are based on the URL slugs supplied from the blog sitemap. Wher
 
 ### AI & Programming
 
+- [How to Create a Custom Dark Mode Theme Toggle in Kodular](https://toenta.blogspot.com/2026/11/how-to-create-custom-dark-mode-theme.html)
 - [How to Create a Secure Local App Lock PIN Screen in Kodular](https://toenta.blogspot.com/2026/11/how-to-create-secure-local-app-lock-pin.html)
 - [Best AI Tools for Creativity and Brainstorming](https://toenta.blogspot.com/2026/11/best-ai-tools-for-creativity-and.html)
 - [Supercharge Your Productivity with AI Workflow Automation in 2026](https://toenta.blogspot.com/2026/10/ai-workflow-automation-2026-ultimate.html)
