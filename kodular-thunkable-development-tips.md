@@ -20,6 +20,7 @@ The titles below are based on the URL slugs supplied from the blog sitemap. Wher
 
 ### AI & Programming
 
+- [Building an AI-Powered Mobile App in Kodular and Thunkable with Code](https://toenta.blogspot.com/2026/11/building-ai-powered-mobile-app-in.html)
 - [Best AI Tools for Creativity and Brainstorming](https://toenta.blogspot.com/2026/11/best-ai-tools-for-creativity-and.html)
 - [Supercharge Your Productivity with AI Workflow Automation in 2026](https://toenta.blogspot.com/2026/10/ai-workflow-automation-2026-ultimate.html)
 - [Best AI Tools for Image Generation & Art (2026 Guide)](https://toenta.blogspot.com/2026/10/best-ai-tools-for-image-generation-and.html)
@@ -29,7 +30,6 @@ The titles below are based on the URL slugs supplied from the blog sitemap. Wher
 ### Blogging Tips n Tricks
 
 - [How to Write CLean HTML/CSS Blog Widgets Using AI](https://toenta.blogspot.com/2026/11/how-to-write-clean-htmlcss-blog-widgets.html)
-
 
 ### App Features & UI
 
